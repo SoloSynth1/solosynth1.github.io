@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About myself\nHi! My name is Orix. I am studying MDS program in UBC and this is my first Quarto website."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "solosynth1.github.io",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
