@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+About myself
+
+Hi! My name is Orix. I am studying MDS program in UBC and this is my first Quarto website.
